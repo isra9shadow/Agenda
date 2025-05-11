@@ -17,9 +17,6 @@ out/
 
 ### IntelliJ IDEA ###
 .idea/
-*.iws
-*.iml
-*.ipr
 
 # User-specific files
 *.sublime-workspace
@@ -34,9 +31,6 @@ ehthumbs.db
 Icon?
 ._*
 
-# Logs
-*.log
-
 # Maven
 log/
 logs/
@@ -46,7 +40,6 @@ buildNumber.properties
 .mvn/timing.properties
 
 # JetBrains Rider
-.idea/
 *.sln
 *.suo
 *.user
@@ -55,10 +48,6 @@ buildNumber.properties
 
 # Backup
 *~
-*.bak
-*.tmp
-
 # Others
 .env
-*.class
 *.lock
